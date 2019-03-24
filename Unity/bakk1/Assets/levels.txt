@@ -1,0 +1,242 @@
+{
+  "p_flat": 0.6,
+  "p_hole": 0.4,
+  "p_obstacle": 0,
+  "speed": 13.57,
+  "force": 11.97,
+  "gravity": 1.59,
+  "obst_height": 4,
+  "block_length": 2,
+  "seed": 46995561,
+  "score": 0,
+  "difficulty": 0.21,
+  "difficulty_standard_deviation": 0.14,
+  "survivors": 0,
+  "max_players": 100
+}
+
+{
+  "p_flat": 0.5,
+  "p_hole": 0,
+  "p_obstacle": 0.5,
+  "speed": 11.47,
+  "force": 15.85,
+  "gravity": 1.89,
+  "obst_height": 6,
+  "block_length": 13,
+  "seed": 47161795,
+  "score": 0,
+  "difficulty": 0.5,
+  "difficulty_standard_deviation": 0.28,
+  "survivors": 0,
+  "max_players": 100
+}
+
+{
+  "p_flat": 0.1,
+  "p_hole": 0.3,
+  "p_obstacle": 0.6,
+  "speed": 10.5,
+  "force": 19.76,
+  "gravity": 3.4,
+  "obst_height": 3,
+  "block_length": 2,
+  "seed": 92089029,
+  "score": 0,
+  "difficulty": 0.12,
+  "difficulty_standard_deviation": 0.14,
+  "survivors": 0,
+  "max_players": 100
+}
+
+
+
+
+
+
+{
+  "p_flat": 0.3,
+  "p_hole": 0,
+  "p_obstacle": 0.7,
+  "speed": 8.24,
+  "force": 7.39,
+  "gravity": 2.11,
+  "obst_height": 1,
+  "block_length": 5,
+  "seed": 68377108,
+  "score": 0,
+  "difficulty": 0.11,
+  "difficulty_standard_deviation": 0.1,
+  "survivors": 0,
+  "max_players": 100
+}
+
+{
+  "p_flat": 0.2,
+  "p_hole": 0.7,
+  "p_obstacle": 0.1,
+  "speed": 17.35,
+  "force": 13.17,
+  "gravity": 3.14,
+  "obst_height": 1,
+  "block_length": 11,
+  "seed": 54791234,
+  "score": 0,
+  "difficulty": 0.36,
+  "difficulty_standard_deviation": 0.26,
+  "survivors": 0,
+  "max_players": 100
+}
+
+{
+  "p_flat": 0.8,
+  "p_hole": 0.2,
+  "p_obstacle": 0,
+  "speed": 9.4,
+  "force": 5.58,
+  "gravity": 1.95,
+  "obst_height": 1,
+  "block_length": 3,
+  "seed": 105949291,
+  "score": 0,
+  "difficulty": 0.2,
+  "difficulty_standard_deviation": 0.17,
+  "survivors": 0,
+  "max_players": 100
+}
+
+{
+  "p_flat": 0.5,
+  "p_hole": 0.1,
+  "p_obstacle": 0.4,
+  "speed": 17.13,
+  "force": 19.14,
+  "gravity": 2.18,
+  "obst_height": 6,
+  "block_length": 15,
+  "seed": 108543892,
+  "score": 0,
+  "difficulty": 0.96,
+  "difficulty_standard_deviation": 0.1,
+  "survivors": 0,
+  "max_players": 100
+}
+
+{
+  "p_flat": 0.5,
+  "p_hole": 0.1,
+  "p_obstacle": 0.4,
+  "speed": 14,
+  "force": 7.69,
+  "gravity": 2.84,
+  "obst_height": 1,
+  "block_length": 5,
+  "seed": 81288375,
+  "score": 0,
+  "difficulty": 0.16,
+  "difficulty_standard_deviation": 0.14,
+  "survivors": 0,
+  "max_players": 100
+}
+
+{
+  "p_flat": 0.2,
+  "p_hole": 0.6,
+  "p_obstacle": 0.2,
+  "speed": 16.87,
+  "force": 19.13,
+  "gravity": 3.24,
+  "obst_height": 4,
+  "block_length": 16,
+  "seed": 3927197,
+  "score": 0,
+  "difficulty": 0.59,
+  "difficulty_standard_deviation": 0.28,
+  "survivors": 0,
+  "max_players": 100
+}
+
+{
+  "p_flat": 0.7,
+  "p_hole": 0.1,
+  "p_obstacle": 0.2,
+  "speed": 16.13,
+  "force": 8.8,
+  "gravity": 3.06,
+  "obst_height": 1,
+  "block_length": 9,
+  "seed": 69983360,
+  "score": 0,
+  "difficulty": 0.57,
+  "difficulty_standard_deviation": 0.22,
+  "survivors": 0,
+  "max_players": 100
+}
+
+{
+  "p_flat": 0,
+  "p_hole": 0.2,
+  "p_obstacle": 0.8,
+  "speed": 18.53,
+  "force": 18.33,
+  "gravity": 2.64,
+  "obst_height": 5,
+  "block_length": 17,
+  "seed": 93009349,
+  "score": 0,
+  "difficulty": 0.87,
+  "difficulty_standard_deviation": 0.24,
+  "survivors": 0,
+  "max_players": 100
+}
+
+{
+  "p_flat": 0.1,
+  "p_hole": 0.5,
+  "p_obstacle": 0.4,
+  "speed": 14.88,
+  "force": 13.43,
+  "gravity": 1.84,
+  "obst_height": 1,
+  "block_length": 10,
+  "seed": 84602945,
+  "score": 0,
+  "difficulty": 0.38,
+  "difficulty_standard_deviation": 0.14,
+  "survivors": 0,
+  "max_players": 100
+}
+
+{
+  "p_flat": 0.7,
+  "p_hole": 0.3,
+  "p_obstacle": 0,
+  "speed": 7.16,
+  "force": 19.18,
+  "gravity": 3.55,
+  "obst_height": 1,
+  "block_length": 3,
+  "seed": 53801589,
+  "score": 0,
+  "difficulty": 0.17,
+  "difficulty_standard_deviation": 0.14,
+  "survivors": 0,
+  "max_players": 100
+}
+
+{
+  "p_flat": 0.6,
+  "p_hole": 0.2,
+  "p_obstacle": 0.2,
+  "speed": 14.25,
+  "force": 15.08,
+  "gravity": 2.08,
+  "obst_height": 2,
+  "block_length": 4,
+  "seed": 51659492,
+  "score": 0,
+  "difficulty": 0.64,
+  "difficulty_standard_deviation": 0.22,
+  "survivors": 0,
+  "max_players": 100
+}
